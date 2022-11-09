@@ -1,4 +1,4 @@
-# Investigate-a-Dataset
+# Investigate a Dataset
 Udacity - Investigate a Dataset - Medical Appointment No Shows
 
 This project goes through all the data analysis process in order to investigate the Medical Appointment No Shows [dataset](https://www.kaggle.com/datasets/joniarroba/noshowappointments?datasetId=792&sortBy=voteCount)
